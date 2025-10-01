@@ -1,11 +1,7 @@
-## Input we need from the user
-# Total rent
-# Total food ordered for snacking
-# Electricity units spend
-# Charge per unit
+'''
+Beginner: Rent Calculator
 
-## Output
-# Total amount you've got to pay
+'''
 
 rent = int(input("Enter your hostel/flat rent = "))
 food = int(input("Enter the amount of food ordered = "))
